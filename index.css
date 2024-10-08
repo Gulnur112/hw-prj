@@ -1,0 +1,85 @@
+body{
+    background-color: #dac9b8;
+}
+h1{
+    color:rgb(62, 42, 28);
+font-family: 'Covered By Your Grace';
+text-align: center;
+     background-image: url(https://miro.medium.com/v2/resize%3Afit%3A1400/1%2AJHbpPa0TugDyymxEWgdYVA.jpeg);
+     width: 1200px;
+     height: 400px;
+     font-size: 70px;
+}
+h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: normal;
+    font-weight: 300px;
+    color: #322e27;
+    text-align: center;
+}
+h4{
+    color: aliceblue;
+}
+h5{
+    color: aliceblue;
+}
+p{
+    text-align: center;
+    color: #a19d98;
+}
+ul h2{
+    color:hsl(33, 53%, 52%);
+    font-family: 'Raleway';
+    font-style: normal ;
+    font-weight: 1px;
+    text-decoration: none;
+    list-style: none;
+}
+a{
+    color: #305940;
+}
+.roasting{
+    
+    background-color: rgb(242, 242, 239);
+    padding: 80px;
+}
+.green{
+    background-color: #99c39a;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+}
+.light{
+    background-color: #a96342;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;;
+}
+.city{
+    background-color: #96582e;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+}
+.vienna{
+    background-color: #af4040;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+}
+.italian{
+    background-color: #191919;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+}
